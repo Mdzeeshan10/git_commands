@@ -12,7 +12,7 @@ Git Commands Push
 | `git status` | Ctatus check |
 | `git add .` | You provide . means all files folder in this folder add |
 | `git commit -m “My first commit”` | Commit code |
-| `git push origine master` | After this command it says your github login credential provide then your code is on github |
+| `git push origin master` | After this command it says your github login credential provide then your code is on github |
 
 
 
@@ -26,7 +26,7 @@ Git Commands Push
 | `git add .` | All file adds in your git |
 | `git commit -m “first commit”` | Commits your code as you want |
 | `git remote add origine https://github.com/Mdzeeshan10/Web_app.git` | your https github url |
-| `git push -u origine master` | Your all folder puch in your github |
+| `git push -u origin master` | Your all folder puch in your github |
 
 
 
