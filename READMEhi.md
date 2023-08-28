@@ -1,20 +1,7 @@
 गिट कमान्डश
 ============
 
-## अनुवादित संस्करण
-- [Versão em português](READMEpt.md)
-- [Versión en español](READMEes.md)
-- [Türkçe versiyon](READMEtr.md)
-- [বাংলা সংস্করণ](READMEbn.md)
-- [हिन्दी अनुवाद](READMEhi.md)
 
-___
-
-_आमतौर पर उपयोग किए जाने वाले गिट कमांड की सूची_
-
-*यदि आप गिट उपनामों में रुचि रखते हैं, तो यहां `.bash_profile` पर एक नज़र डालें: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
-
---
 
 ### प्रोजेक्ट प्राप्त करना और बनाना
 
